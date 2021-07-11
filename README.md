@@ -1,1 +1,1 @@
-# navigator_description
+# Self-Navigating Bot URDF
