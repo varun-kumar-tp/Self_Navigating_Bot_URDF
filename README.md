@@ -3,7 +3,7 @@ The Universal Robot Description Format (URDF) is used for representing the robot
 
 ## Solidworks
 Initially a 3D model of the bot is built in Solidworks. The following image shows the 3D model. 
-
+![navigator in Gazebo](https://github.com/varunkumartp/Self_Navigating_Bot_URDF/blob/master/navigator_description/images/Solidworks.png)
 The URDF of the model is extracted uing URDF_exporter pluggin for Solidworks.
 
 ## Prerequisites
